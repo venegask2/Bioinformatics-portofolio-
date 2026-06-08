@@ -23,7 +23,12 @@ My interests include:
 ## Projects
 
 ### Gene Expression Analysis
-Coming Soon
+## Projects
+
+### Gene Expression Analysis
+Analysis of gene expression data using R and Bioconductor.
+
+🔗 [View Project](https://github.com/venegask2/gene-expression-analysis)
 
 ### RNA-Seq Analysis
 Coming Soon
